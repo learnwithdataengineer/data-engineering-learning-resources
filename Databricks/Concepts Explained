@@ -1,1 +1,23 @@
+Databricks – Learning Notes
 
+A collection of notes, practical examples, concepts, and hands-on implementations covering Databricks and modern data engineering.
+
+1. Databricks Fundamentals
+Introduction to Databricks
+Databricks High-Level Architecture
+Databricks Core Concepts
+
+2. Delta Lake
+Time Travel in Delta Lake
+Understanding Delta Lake Features
+
+3. Data Engineering Concepts
+Critical Challenges Faced by Data Engineers
+Slowly Changing Dimensions (SCD)
+SCD Type 1 – Overwrite Existing Records
+SCD Type 2 – Maintain Historical Records
+
+4. Databricks Workflows
+Databricks Job Scheduling
+Creating and Managing Jobs
+Job Monitoring and Troubleshooting
